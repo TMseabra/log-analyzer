@@ -1,0 +1,10 @@
+# Real logs (never commit these)
+*.log
+*.log.*
+!samples/auth.log.sample
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
