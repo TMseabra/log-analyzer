@@ -1,0 +1,21 @@
+Oct 10 22:14:03 server sshd[1201]: Failed password for root from 203.0.113.45 port 51122 ssh2
+Oct 10 22:14:07 server sshd[1203]: Failed password for root from 203.0.113.45 port 51130 ssh2
+Oct 10 22:14:11 server sshd[1205]: Failed password for root from 203.0.113.45 port 51138 ssh2
+Oct 10 22:15:42 server sshd[1210]: Invalid user admin from 198.51.100.23 port 40022
+Oct 10 22:15:44 server sshd[1210]: Failed password for invalid user admin from 198.51.100.23 port 40022 ssh2
+Oct 10 22:15:49 server sshd[1212]: Invalid user ubuntu from 198.51.100.23 port 40034
+Oct 10 22:15:51 server sshd[1212]: Failed password for invalid user ubuntu from 198.51.100.23 port 40034 ssh2
+Oct 10 23:02:19 server sshd[1244]: Accepted publickey for tomas from 192.0.2.10 port 60211 ssh2: ED25519 SHA256:examplefingerprint
+Oct 10 23:40:55 server sshd[1290]: Invalid user test from 203.0.113.99 port 33310
+Oct 10 23:40:57 server sshd[1290]: Failed password for invalid user test from 203.0.113.99 port 33310 ssh2
+Oct 11 01:03:12 server sshd[1333]: Failed password for root from 203.0.113.45 port 51220 ssh2
+Oct 11 01:03:16 server sshd[1335]: Failed password for root from 203.0.113.45 port 51228 ssh2
+Oct 11 01:03:20 server sshd[1337]: Failed password for invalid user oracle from 203.0.113.45 port 51236 ssh2
+Oct 11 03:27:08 server sshd[1401]: Invalid user postgres from 198.51.100.77 port 52001
+Oct 11 03:27:10 server sshd[1401]: Failed password for invalid user postgres from 198.51.100.77 port 52001 ssh2
+Oct 11 08:15:31 server sshd[1455]: Accepted password for tomas from 192.0.2.10 port 60388 ssh2
+Oct 11 08:16:02 server sshd[1460]: Failed password for tomas from 192.0.2.55 port 45120 ssh2
+Oct 11 09:44:50 server sshd[1502]: Failed password for root from 198.51.100.23 port 40120 ssh2
+Oct 11 09:44:54 server sshd[1504]: Failed password for root from 198.51.100.23 port 40128 ssh2
+Oct 11 09:45:01 server sshd[1506]: Failed password for invalid user admin from 198.51.100.23 port 40136 ssh2
+Oct 11 12:30:22 server sshd[1560]: Accepted publickey for tomas from 192.0.2.10 port 60512 ssh2: ED25519 SHA256:examplefingerprint
